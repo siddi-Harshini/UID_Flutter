@@ -1,5 +1,5 @@
 //create custom widgets for ui elements
-
+// A Stateful Widget in Flutter is a widget that can change its appearance or behavior dynamically based on user interaction or other events. Think of it like a living, breathing part of your app that reacts and updates itself when something changes.
 import 'package:flutter/material.dart';
 
 void main() {
@@ -77,3 +77,6 @@ class _MyAppState extends State<MyApp> {
     );
   }
 }
+
+// Output :
+
